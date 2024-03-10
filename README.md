@@ -1,3 +1,5 @@
+![developed by Victor Ciechovicz (1)](https://github.com/VictorCiechovicz/goals-app/assets/106246945/b9ff34e1-5229-437f-a53b-7e1d12025ea9)
+
 # 💵 GoalsApp
 
 App to create purchase goals and track the accumulation of money for goal purchases. This application was created for the purpose of studies.
